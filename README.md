@@ -1,0 +1,2 @@
+# broadcast
+menghitung alamat broadcast 
